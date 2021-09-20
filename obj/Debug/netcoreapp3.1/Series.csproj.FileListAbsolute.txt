@@ -1,0 +1,12 @@
+C:\Users\thiag\Desktop\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\Series.exe
+C:\Users\thiag\Desktop\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\Series.deps.json
+C:\Users\thiag\Desktop\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\Series.runtimeconfig.json
+C:\Users\thiag\Desktop\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\Series.runtimeconfig.dev.json
+C:\Users\thiag\Desktop\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\Series.dll
+C:\Users\thiag\Desktop\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\Series.pdb
+C:\Users\thiag\Desktop\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\Series.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\Series.AssemblyInfo.cs
+C:\Users\thiag\Desktop\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\Series.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\Series.dll
+C:\Users\thiag\Desktop\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\Series.pdb
+C:\Users\thiag\Desktop\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\Series.genruntimeconfig.cache
